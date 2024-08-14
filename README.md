@@ -1,1 +1,1 @@
-# US-Flight-Routes-Analysis-and-Optimization
+**This project analyzes flight routes to the US, focusing on travel demand, market research, and route optimization. Key insights include identifying high-traffic routes, seasonal variations, and fare price impacts on passenger volume. The analysis also explores carrier performance and offers recommendations for improving airline operations.**
